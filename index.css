@@ -21,7 +21,7 @@ button {
    font-weight: 700;
    text-transform: uppercase;
    position: relative;
-   top: 500px;
+   top: 300px;
    left: 210px;
    cursor: pointer;
    box-shadow: 3px 6px 12px rgba(0, 0, 0, 0.5)
@@ -32,3 +32,19 @@ button:hover {
   color: white;
   box-shadow: 3px 6px 12px rgba(0, 0, 0, 0.5);
 } 
+
+h1 {
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+h2 {
+    text-align: center;
+    justify-content: center;
+    position: relative;
+    top: 300px;
+    left: 0px;
+    font-size: 3rem;
+    text-transform: uppercase;
+}
